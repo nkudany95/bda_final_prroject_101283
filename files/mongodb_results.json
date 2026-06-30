@@ -1,0 +1,366 @@
+{
+  "product_popularity": [
+    {
+      "total_units": 76,
+      "order_count": 39,
+      "product_id": "prod_00217",
+      "product_name": "Enhanced Empowering Application",
+      "category_name": "Wright-Leblanc",
+      "total_revenue": 36730.8,
+      "avg_unit_price": 483.3
+    },
+    {
+      "total_units": 60,
+      "order_count": 30,
+      "product_id": "prod_00127",
+      "product_name": "Grass-Roots Contextually-Based Paradigm",
+      "category_name": "Moore, Becker and Carlson",
+      "total_revenue": 35649.0,
+      "avg_unit_price": 594.15
+    },
+    {
+      "total_units": 59,
+      "order_count": 30,
+      "product_id": "prod_00118",
+      "product_name": "Stand-Alone Coherent Flexibility",
+      "category_name": "Phillips Inc",
+      "total_revenue": 33773.37,
+      "avg_unit_price": 572.43
+    },
+    {
+      "total_units": 74,
+      "order_count": 36,
+      "product_id": "prod_00371",
+      "product_name": "Synchronized Grid-Enabled Strategy",
+      "category_name": "James LLC",
+      "total_revenue": 33527.92,
+      "avg_unit_price": 453.08
+    },
+    {
+      "total_units": 69,
+      "order_count": 36,
+      "product_id": "prod_00208",
+      "product_name": "Cross-Group Stable Data-Warehouse",
+      "category_name": "Brewer, Bryant and Hickman",
+      "total_revenue": 33148.29,
+      "avg_unit_price": 480.41
+    },
+    {
+      "total_units": 60,
+      "order_count": 32,
+      "product_id": "prod_00072",
+      "product_name": "Fully-Configurable Bi-Directional Standardization",
+      "category_name": "Phillips Inc",
+      "total_revenue": 32998.8,
+      "avg_unit_price": 549.98
+    },
+    {
+      "total_units": 61,
+      "order_count": 30,
+      "product_id": "prod_00250",
+      "product_name": "Multi-Layered Fault-Tolerant Success",
+      "category_name": "Anderson, Walls and Duncan",
+      "total_revenue": 32899.13,
+      "avg_unit_price": 539.33
+    },
+    {
+      "total_units": 63,
+      "order_count": 32,
+      "product_id": "prod_00104",
+      "product_name": "Self-Enabling Systemic Application",
+      "category_name": "Mitchell-Kim",
+      "total_revenue": 32446.89,
+      "avg_unit_price": 515.03
+    },
+    {
+      "total_units": 62,
+      "order_count": 35,
+      "product_id": "prod_00132",
+      "product_name": "Intuitive Eco-Centric Graphic Interface",
+      "category_name": "Mitchell-Kim",
+      "total_revenue": 32374.54,
+      "avg_unit_price": 522.17
+    },
+    {
+      "total_units": 73,
+      "order_count": 38,
+      "product_id": "prod_00439",
+      "product_name": "Innovative Directional Framework",
+      "category_name": "Kelly-Santiago",
+      "total_revenue": 32053.57,
+      "avg_unit_price": 439.09
+    },
+    {
+      "total_units": 58,
+      "order_count": 29,
+      "product_id": "prod_00375",
+      "product_name": "Devolved Disintermediate Utilization",
+      "category_name": "Skinner-Romero",
+      "total_revenue": 31292.74,
+      "avg_unit_price": 539.53
+    },
+    {
+      "total_units": 73,
+      "order_count": 36,
+      "product_id": "prod_00436",
+      "product_name": "Public-Key Global Moratorium",
+      "category_name": "Wright-Leblanc",
+      "total_revenue": 28989.76,
+      "avg_unit_price": 397.12
+    },
+    {
+      "total_units": 60,
+      "order_count": 29,
+      "product_id": "prod_00489",
+      "product_name": "Compatible 6Thgeneration Interface",
+      "category_name": "Kelly-Santiago",
+      "total_revenue": 28945.8,
+      "avg_unit_price": 482.43
+    },
+    {
+      "total_units": 62,
+      "order_count": 28,
+      "product_id": "prod_00034",
+      "product_name": "Versatile Zero Administration Benchmark",
+      "category_name": "Powell PLC",
+      "total_revenue": 28721.5,
+      "avg_unit_price": 463.25
+    },
+    {
+      "total_units": 64,
+      "order_count": 33,
+      "product_id": "prod_00429",
+      "product_name": "Digitized Systemic Encryption",
+      "category_name": "Burns-Rodriguez",
+      "total_revenue": 28229.76,
+      "avg_unit_price": 441.09
+    }
+  ],
+  "revenue_by_category": [
+    {
+      "total_orders": 610,
+      "total_units_sold": 1202,
+      "category": "James LLC",
+      "gross_revenue": 360019.86,
+      "total_discount": 16022.47,
+      "unique_products": 25,
+      "discount_pct": 4.45
+    },
+    {
+      "total_orders": 618,
+      "total_units_sold": 1254,
+      "category": "Mitchell-Kim",
+      "gross_revenue": 337058.45,
+      "total_discount": 14931.09,
+      "unique_products": 26,
+      "discount_pct": 4.43
+    },
+    {
+      "total_orders": 571,
+      "total_units_sold": 1152,
+      "category": "Skinner-Romero",
+      "gross_revenue": 327925.29,
+      "total_discount": 15118.26,
+      "unique_products": 23,
+      "discount_pct": 4.61
+    },
+    {
+      "total_orders": 666,
+      "total_units_sold": 1302,
+      "category": "Anderson, Walls and Duncan",
+      "gross_revenue": 325253.45,
+      "total_discount": 20432.22,
+      "unique_products": 27,
+      "discount_pct": 6.28
+    },
+    {
+      "total_orders": 517,
+      "total_units_sold": 1020,
+      "category": "Owens-Daniel",
+      "gross_revenue": 293076.3,
+      "total_discount": 14475.51,
+      "unique_products": 24,
+      "discount_pct": 4.94
+    },
+    {
+      "total_orders": 542,
+      "total_units_sold": 1096,
+      "category": "Kelly-Santiago",
+      "gross_revenue": 265687.82,
+      "total_discount": 14481.08,
+      "unique_products": 20,
+      "discount_pct": 5.45
+    },
+    {
+      "total_orders": 469,
+      "total_units_sold": 928,
+      "category": "Moore, Becker and Carlson",
+      "gross_revenue": 264853.84,
+      "total_discount": 13918.74,
+      "unique_products": 20,
+      "discount_pct": 5.26
+    },
+    {
+      "total_orders": 476,
+      "total_units_sold": 959,
+      "category": "Rodriguez-Graham",
+      "gross_revenue": 238080.54,
+      "total_discount": 14545.25,
+      "unique_products": 18,
+      "discount_pct": 6.11
+    },
+    {
+      "total_orders": 453,
+      "total_units_sold": 888,
+      "category": "Patterson, Smith and Jones",
+      "gross_revenue": 237710.18,
+      "total_discount": 12334.14,
+      "unique_products": 21,
+      "discount_pct": 5.19
+    },
+    {
+      "total_orders": 490,
+      "total_units_sold": 975,
+      "category": "King-Odonnell",
+      "gross_revenue": 235285.52,
+      "total_discount": 13982.38,
+      "unique_products": 20,
+      "discount_pct": 5.94
+    },
+    {
+      "total_orders": 546,
+      "total_units_sold": 1043,
+      "category": "Cameron-Parsons",
+      "gross_revenue": 233664.65,
+      "total_discount": 14262.36,
+      "unique_products": 22,
+      "discount_pct": 6.1
+    },
+    {
+      "total_orders": 540,
+      "total_units_sold": 1040,
+      "category": "Burns-Rodriguez",
+      "gross_revenue": 230672.23,
+      "total_discount": 12369.42,
+      "unique_products": 21,
+      "discount_pct": 5.36
+    },
+    {
+      "total_orders": 477,
+      "total_units_sold": 958,
+      "category": "Hancock Inc",
+      "gross_revenue": 226089.77,
+      "total_discount": 12276.29,
+      "unique_products": 21,
+      "discount_pct": 5.43
+    },
+    {
+      "total_orders": 384,
+      "total_units_sold": 796,
+      "category": "Powell PLC",
+      "gross_revenue": 225728.39,
+      "total_discount": 10199.44,
+      "unique_products": 16,
+      "discount_pct": 4.52
+    },
+    {
+      "total_orders": 430,
+      "total_units_sold": 829,
+      "category": "Smith Ltd",
+      "gross_revenue": 224187.26,
+      "total_discount": 12155.54,
+      "unique_products": 18,
+      "discount_pct": 5.42
+    },
+    {
+      "total_orders": 481,
+      "total_units_sold": 955,
+      "category": "Baldwin Ltd",
+      "gross_revenue": 222633.57,
+      "total_discount": 12328.49,
+      "unique_products": 21,
+      "discount_pct": 5.54
+    },
+    {
+      "total_orders": 410,
+      "total_units_sold": 807,
+      "category": "Preston Ltd",
+      "gross_revenue": 217382.37,
+      "total_discount": 11836.64,
+      "unique_products": 17,
+      "discount_pct": 5.45
+    },
+    {
+      "total_orders": 387,
+      "total_units_sold": 768,
+      "category": "Wright-Leblanc",
+      "gross_revenue": 202793.24,
+      "total_discount": 11315.85,
+      "unique_products": 16,
+      "discount_pct": 5.58
+    },
+    {
+      "total_orders": 422,
+      "total_units_sold": 823,
+      "category": "Carney-Santos",
+      "gross_revenue": 191543.37,
+      "total_discount": 11784.92,
+      "unique_products": 19,
+      "discount_pct": 6.15
+    },
+    {
+      "total_orders": 307,
+      "total_units_sold": 604,
+      "category": "Phillips Inc",
+      "gross_revenue": 187344.13,
+      "total_discount": 9723.98,
+      "unique_products": 14,
+      "discount_pct": 5.19
+    },
+    {
+      "total_orders": 362,
+      "total_units_sold": 734,
+      "category": "Rodriguez, Figueroa and Sanchez",
+      "gross_revenue": 181535.21,
+      "total_discount": 10570.69,
+      "unique_products": 15,
+      "discount_pct": 5.82
+    },
+    {
+      "total_orders": 350,
+      "total_units_sold": 695,
+      "category": "Ellis, Baker and Wright",
+      "gross_revenue": 152563.4,
+      "total_discount": 9954.07,
+      "unique_products": 15,
+      "discount_pct": 6.52
+    },
+    {
+      "total_orders": 333,
+      "total_units_sold": 645,
+      "category": "Brewer, Bryant and Hickman",
+      "gross_revenue": 144554.74,
+      "total_discount": 6483.5,
+      "unique_products": 14,
+      "discount_pct": 4.49
+    },
+    {
+      "total_orders": 236,
+      "total_units_sold": 479,
+      "category": "Spence PLC",
+      "gross_revenue": 140243.8,
+      "total_discount": 7799.49,
+      "unique_products": 11,
+      "discount_pct": 5.56
+    },
+    {
+      "total_orders": 315,
+      "total_units_sold": 624,
+      "category": "Bush Inc",
+      "gross_revenue": 139481.25,
+      "total_discount": 6725.1,
+      "unique_products": 13,
+      "discount_pct": 4.82
+    }
+  ]
+}
